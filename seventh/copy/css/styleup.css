@@ -1,0 +1,10 @@
+body{
+	background: Purple;
+	color: white;
+}
+
+.nav {
+	color: white;
+	border: 2px;
+	border-bottom: 2px solid white;
+}

@@ -1,0 +1,48 @@
+body{
+	background-image: url("../img/3.jpg");
+	text-align:  center;
+	border: 10px solid blue; 
+	/*background-size: 1900px 1200px;*/
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div{
+	height:300px; /*высота*/
+	width: 700px; /*ширина*/
+	border:5px solid LightCyan;
+	/*text-align: center;*/
+}
+.center{
+	height: 400px;
+	/*background-image: url("../img/web.jpg");*/
+	background-size: cover;}
+	
+div#left{
+	display: inline-block;
+	width: 20%;
+	height: 100%;
+	}
+div#right{
+	background-image: url("../img/web.jpg");
+	display: inline-block;
+	width: 76%;
+	height: 100%;
+	background-size: cover;
+	}
+
+
+	
+div#up{
+	background-image: url("../img/10.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+div#futer {background-image: url("../img/1.jpg");
+	border: 5px solid Cyan;
+	height: 175px;
+	background-repeat: no-repeat;
+	
+	}
+	

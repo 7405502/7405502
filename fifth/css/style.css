@@ -1,0 +1,45 @@
+body{
+	background-image: url("../img/2.jpg");
+	text-align:  center;
+	border: 10px solid red; 
+}
+a{
+	
+	font-size: 100px;
+	opacity: 0.5;
+ 	 background: #fc0; /* Цвет фона */
+ 	 padding: 15px; /* Поля вокруг текста */
+	 
+	 margin: 100px 1px;
+}
+ul{
+	text-align: center;
+	font-size: 50px;
+	color: Olive;
+	text-shadow: 1px 1px 2px DarkOliveGreen ;}
+ul li{
+	background:#e3fb1a8c; 
+}
+
+   
+ul li { display: inline-block; }
+
+div{
+	opacity: 1;
+}
+p{
+	font-size: 30px;
+}
+div{
+	height:100px;
+	width: 100%;
+	border:2px solid LightCyan;
+	/*text-align: center;*/
+}
+div#center{height: 300px;}
+div#left{
+	display: inline-block;
+	width: 15%;}
+div#right{
+	display: inline-block;
+	width: 70%;}

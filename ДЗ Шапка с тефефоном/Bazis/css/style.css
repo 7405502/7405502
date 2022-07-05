@@ -1,0 +1,45 @@
+body{
+    background: rgb(158, 32, 116);
+}
+.menu {
+    
+    box-shadow: 4px 5px 15px rgba(0, 0, 0, 0.5);
+    /*padding: 30px;*/
+    text-align:  right;
+}
+
+.menu li {
+    
+    display: inline-block;
+    padding: 20px 30px;
+}
+
+a {
+    color: white;
+    
+}
+.menu li:hover {
+    background-color: #f87777;
+}
+
+.text {
+    text-align:  center;
+    color: white;
+        
+}
+
+
+h1{
+    padding:90px 30px 10px 30px;
+    
+
+}
+
+.fig{
+    text-align: center;
+    border-radius: 30px; 
+    border: 1px solid black;
+    box-shadow:  0 0 0 3px green, 0 0 13px #333;/*4px 5px 55px rgba(0, 0, 0, 0.5);*/
+    width: 498px;
+
+}
